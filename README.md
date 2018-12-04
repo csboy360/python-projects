@@ -1,2 +1,1 @@
-# python-projects
-Helpful Programs or games
+Just some python projects I decided to make and experiment .
